@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff007f"><animate attributeName="stop-color" values="#ff007f;#7f00ff;#00e5ff;#ff007f" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#7f00ff"><animate attributeName="stop-color" values="#7f00ff;#00e5ff;#ff007f;#7f00ff" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#ff007f;#7f00ff;#00e5ff" dur="10s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path fill="url(#g)" opacity="0.45" d="M0,215 Q150,195 300,215 Q450,235 600,215 Q750,195 900,215 Q1050,235 1200,215 L1200,0 L0,0 Z">
+    <animate attributeName="d" values="M0,215 Q150,195 300,215 Q450,235 600,215 Q750,195 900,215 Q1050,235 1200,215 L1200,0 L0,0 Z;M0,215 Q150,235 300,215 Q450,195 600,215 Q750,235 900,215 Q1050,195 1200,215 L1200,0 L0,0 Z;M0,215 Q150,195 300,215 Q450,235 600,215 Q750,195 900,215 Q1050,235 1200,215 L1200,0 L0,0 Z" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#g)" d="M0,200 Q150,228 300,200 Q450,172 600,200 Q750,228 900,200 Q1050,172 1200,200 L1200,0 L0,0 Z">
+    <animate attributeName="d" values="M0,200 Q150,228 300,200 Q450,172 600,200 Q750,228 900,200 Q1050,172 1200,200 L1200,0 L0,0 Z;M0,200 Q150,172 300,200 Q450,228 600,200 Q750,172 900,200 Q1050,228 1200,200 L1200,0 L0,0 Z;M0,200 Q150,228 300,200 Q450,172 600,200 Q750,228 900,200 Q1050,172 1200,200 L1200,0 L0,0 Z" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <g text-anchor="middle" fill="#ffffff">
+    <text x="600.0" y="105" font-family="Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="64" font-weight="700" filter="url(#glow)" opacity="0">13cyberpunk02
+      <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
+    </text>
+    <text x="600.0" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" letter-spacing="3" opacity="0">FULL-STACK  •  .NET  •  ANGULAR  •  DEVOPS
+      <animate attributeName="opacity" from="0" to="0.95" begin="0.8s" dur="1.5s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
