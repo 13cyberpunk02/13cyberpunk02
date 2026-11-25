@@ -1,76 +1,121 @@
-<!-- Profile Badges and Skills Showcase -->
+<!-- ========== ШАПКА ========== -->
+<p align="center">
+  <img src="./assets/header.svg" alt="header" width="100%"/>
+</p>
 
-# 👋 Привет, я 13cyberpunk02!
+<p align="center">
+  <a href="https://github.com/13cyberpunk02">
+    <img src="./assets/typing.svg" alt="Typing SVG"/>
+  </a>
+</p>
 
-Добро пожаловать в мой профиль GitHub!  
-Я люблю разрабатывать современные web-приложения, автоматизировать задачи и учиться новому.  
-Здесь вы найдёте мои проекты, эксперименты и технологии, с которыми я работаю.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=13cyberpunk02&label=Просмотры%20профиля&color=ff007f&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/13cyberpunk02?label=Подписчики&style=flat-square&color=7f00ff&logo=github" alt="followers"/>
+  <a href="https://t.me/cyberpunk92"><img src="https://img.shields.io/badge/Telegram-@cyberpunk92-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/></a>
+</p>
 
 ---
 
-## 📚 Мои достижения и профили
+## 🧑‍💻 Обо мне
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+Добро пожаловать в мой профиль! Я создаю **современные web-приложения** на связке **.NET + Angular**, автоматизирую рутинные задачи и сам настраиваю инфраструктуру — от Linux-серверов до роутеров на OpenWrt.
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/13cyberpunk02)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/13CyberPunk02)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/sabirovsalavat-2958/)
+- 🔭 Сейчас работаю над **web-приложениями на ASP.NET Core и Angular**
+- 🌱 Постоянно изучаю что-то новое — решаю задачи на Codewars и прохожу курсы Microsoft Learn
+- ⚙️ Люблю, когда всё работает само: скрипты, CI/CD, автоматизация
+- 💬 Открыт к общению и интересным проектам — пишите в Telegram
+
+> Здесь вы найдёте мои проекты, эксперименты и технологии, с которыми я работаю.
 
 ---
 
 ## 🛠️ Технологии и инструменты
 
-### Языки программирования
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/ru-ru/languages/csharp)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/Html/)
-[![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://yaml.org/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
+<h3 align="center">💻 Языки</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,powershell&theme=dark" alt="languages"/></a>
+</p>
 
-### Фреймворки и библиотеки
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-[![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/ru-ru/apps/aspnet/web-apps/blazor)
-[![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+<h3 align="center">🧩 Фреймворки и библиотеки</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,angular,reactivex,tailwind,bootstrap,npm&theme=dark" alt="frameworks"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
+</p>
 
-### DevOps и инфраструктура
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com)
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/13cyberpunk02)
+<h3 align="center">🚀 DevOps и инфраструктура</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nginx,cloudflare,git,github,githubactions&theme=dark" alt="devops"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt"/>
+</p>
 
-### Операционные системы
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)](https://openwrt.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/ru-ru/download/windows)
+<h3 align="center">🐧 Операционные системы</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows&theme=dark" alt="os"/></a>
+</p>
 
-### IDE и редакторы
-[![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://www.jetbrains.com/rider/)
-[![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)](https://www.jetbrains.com/webstorm/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+<h3 align="center">🧰 IDE и редакторы</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rider,webstorm,visualstudio,vscode&theme=dark" alt="ide"/></a>
+</p>
 
 ---
 
-## 📈 Статистика
+## 📊 Статистика GitHub
 
-<!-- Optionally insert your own GitHub stats here -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=13cyberpunk02&show_icons=true&theme=radical)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=13cyberpunk02&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=ru" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13cyberpunk02&layout=compact&theme=radical&hide_border=true&langs_count=8&locale=ru" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=13cyberpunk02&theme=radical&hide_border=true&locale=ru" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=13cyberpunk02&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true&area_color=fe428e&hide_border=true&custom_title=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86" alt="Activity graph"/>
+</p>
+
+<!-- Змейка генерируется GitHub Action-ом (.github/workflows/snake.yml) в ветку output -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13cyberpunk02/13cyberpunk02/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/13cyberpunk02/13cyberpunk02/output/github-snake.svg"/>
+    <img alt="Змейка, поедающая contribution graph" src="https://raw.githubusercontent.com/13cyberpunk02/13cyberpunk02/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## 🏆 Обучение и достижения
+
+<p align="center">
+  <a href="https://www.codewars.com/users/13cyberpunk02"><img src="https://www.codewars.com/users/13cyberpunk02/badges/large" alt="Codewars"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/13cyberpunk02"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+  <a href="https://www.freecodecamp.org/13CyberPunk02"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/></a>
+  <a href="https://learn.microsoft.com/en-us/users/sabirovsalavat-2958/"><img src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoftlearn&logoColor=white" alt="Microsoft Learn"/></a>
+</p>
 
 ---
 
 ## 📬 Связаться со мной
 
-- Telegram: [@cyberpunk92](https://t.me/cyberpunk92)
-- Email: salawat1302@gmail.com
+<p align="center">
+  <a href="https://t.me/cyberpunk92"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:salawat1302@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
----
-
-<!-- Thanks for visiting! -->
+<!-- ========== ПОДВАЛ ========== -->
+<p align="center">
+  <img src="./assets/footer.svg" alt="footer" width="100%"/>
+</p>
