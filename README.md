@@ -1,4 +1,3 @@
-<!-- ========== ШАПКА ========== -->
 <p align="center">
   <img src="./assets/header.svg" alt="header" width="100%"/>
 </p>
@@ -10,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=13cyberpunk02&label=Просмотры%20профиля&color=ff007f&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/13cyberpunk02?label=Подписчики&style=flat-square&color=7f00ff&logo=github" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=13cyberpunk02&label=Profile%20views&color=ff007f&style=flat-square" alt="profile views"/>
+  <a href="https://github.com/13cyberpunk02?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-7f00ff?style=flat-square&logo=github&logoColor=white" alt="follow"/></a>
   <a href="https://t.me/cyberpunk92"><img src="https://img.shields.io/badge/Telegram-@cyberpunk92-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/></a>
 </p>
 
@@ -83,7 +82,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=13cyberpunk02&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true&area_color=fe428e&hide_border=true&custom_title=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86" alt="Activity graph"/>
 </p>
 
-<!-- Змейка генерируется GitHub Action-ом (.github/workflows/snake.yml) в ветку output -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13cyberpunk02/13cyberpunk02/output/github-snake-dark.svg"/>
